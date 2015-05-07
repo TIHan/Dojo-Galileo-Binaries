@@ -2,6 +2,10 @@
 
 ## Instructions
 
+### System Requirements
+
+- Machine must support OpenGL 3.3 with a compatible graphics card.
+
 ### Windows
 
 - Open Galileo.fsx in Visual Studio. Make sure your F# interactive is set to 32-bit!
@@ -10,6 +14,10 @@
 
 - Download and install SDL2 https://www.libsdl.org/release/SDL2-2.0.3.dmg
 - Open Galileo.fsx in Xamarin Studio. Make sure you have all of Mono installed.
+
+### Coordinate System
+
+![cartesian](http://www.falloutsoftware.com/tutorials/gl/cartesian.gif)
 
 #### API
 
