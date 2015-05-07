@@ -2,7 +2,7 @@
 
 ## System Requirements
 
-- Machine must support OpenGL 3.3 with a compatible graphics card.
+- Compatible graphics card that support OpenGL 3.3.
 
 ## Instructions
 
