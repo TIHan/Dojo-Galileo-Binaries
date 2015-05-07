@@ -1,10 +1,10 @@
 # Dojo - Galileo
 
-## Instructions
-
-### System Requirements
+## System Requirements
 
 - Machine must support OpenGL 3.3 with a compatible graphics card.
+
+## Instructions
 
 ### Windows
 
